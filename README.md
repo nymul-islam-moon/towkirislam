@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> , I'm [Moon]!</h1>
-<h3 align="center">A passionate programmer from Bangladesh. I work as a fullstack developer from Bangladesh. Intuitive problem-solving skill. Proficient in #Language : C/C++, Python, PHP. #Framework : Django. #Database : MySQL, SQL-Lite. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. And also have quick learning skill.</h3>
+<h3 align="center">A passionate programmer from Bangladesh. I work as a fullstack developer. Intuitive problem-solving skill. Proficient in #Language : C/C++, Python, PHP. #Framework : Django. #Database : MySQL, SQL-Lite. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. And also have quick learning skill.</h3>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=towkirIslam&show_icons=true&count_private=true&theme=chartreuse-dark" />
 
