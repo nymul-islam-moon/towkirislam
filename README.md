@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=towkirislam&label=Profile%20views&color=0e75b6&style=flat" alt="towkirislam" /> </p>
 
-- 🔭 I’m currently working on [GITHUB] https://github.com/towkirIslam/ :computer:
+- 🔭 I’m currently working on [GITHUB] https://github.com/towkirIslam/ 
 
 - 👨‍💻 All of my projects are available at [https://towkirislam.github.io/](https://towkirislam.github.io/)
 
