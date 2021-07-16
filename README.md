@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Django, Python, Html, CSS, C/C++ and Competitive programming problems**
 
-- 📫 How to reach me **towkir1997islam@gmail.com**
+- 📫 How to reach me https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white **towkir1997islam@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1xJFSFlqdwg_y-QF8mMJu9mjIj4v6T3HY/view?usp=sharing](https://drive.google.com/file/d/1xJFSFlqdwg_y-QF8mMJu9mjIj4v6T3HY/view?usp=sharing)
 
