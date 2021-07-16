@@ -1,5 +1,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=towkirislam&label=Profile%20views&color=0e75b6&style=flat" alt="towkirislam" /> </p>
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> , I'm [Moon]!</h1>
@@ -8,6 +7,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=towkirIslam&show_icons=true&count_private=true&theme=chartreuse-dark" />
 
 
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
 - 🔭 I’m currently working on [GITHUB] https://github.com/towkirIslam/ 
 
@@ -41,4 +41,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=towkirislam&theme=chartreuse-dark&show_icons=true" alt="towkirislam" /></p>
 
 
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
