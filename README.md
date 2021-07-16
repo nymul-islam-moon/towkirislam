@@ -41,3 +41,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=towkirislam&theme=chartreuse-dark&show_icons=true" alt="towkirislam" /></p>
 
 
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
