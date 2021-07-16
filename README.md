@@ -51,5 +51,4 @@ or <a href="towkir1997islam@gmail.com"><b>email</b></a> me
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=towkirislam&theme=chartreuse-dark&show_icons=true" alt="towkirislam" /></p>
 
-![image]({https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white})
 
