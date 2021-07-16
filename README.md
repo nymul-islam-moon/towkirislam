@@ -38,5 +38,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=towkirislam&theme=chartreuse-dark&show_icons=true" alt="towkirislam" /></p>
 
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-https://img.shields.io/badge/left-right-f39f37
