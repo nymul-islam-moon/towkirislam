@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=towkirislam&label=Profile%20views&color=0e75b6&style=flat" alt="towkirislam" /> </p>
 
  <p align="center">
-<img src="https://img.shields.io/badge/Age-26-blue" />
+  <img src="https://img.shields.io/badge/Age-26-blue" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
   <img src="https://img.shields.io/badge/Languages-English-brightgreen" />
 </p>
