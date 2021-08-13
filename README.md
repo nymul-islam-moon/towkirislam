@@ -22,7 +22,7 @@ Ask me anything <a href="https://github.com/towkirislam/towkirislam/issues/new">
 
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
-- 🔭 I’m currently working on https://github.com/towkirIslam/Django_Projects 
+- 🔭 I’m currently working on Django
 
 - 👨‍💻 All of my projects are available at [https://towkirislam.github.io/](https://towkirislam.github.io/)
 
