@@ -22,11 +22,11 @@ Ask me anything <a href="https://github.com/towkirislam/towkirislam/issues/new">
 
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
-- 🔭 I’m currently working on Django
+- 🔭 I’m currently working on Laravel
 
 - 👨‍💻 All of my projects are available at [https://towkirislam.github.io/](https://towkirislam.github.io/)
 
-- 💬 Ask me about **Django, Python, Html, CSS, C/C++ and Competitive programming problems**
+- 💬 Ask me about **Laravel, Python, Html, CSS, C/C++ and Competitive programming problems**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1xJFSFlqdwg_y-QF8mMJu9mjIj4v6T3HY/view?usp=sharing](https://drive.google.com/file/d/1xJFSFlqdwg_y-QF8mMJu9mjIj4v6T3HY/view?usp=sharing)
 
